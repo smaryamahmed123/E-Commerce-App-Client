@@ -1,0 +1,7 @@
+export const BASE_URL1 = 'http://localhost:5000'
+export const BASE_URL2 = 'http://localhost:5000/api/admin'
+export const BASE_URL3 = 'http://localhost:5000/api'
+export const BASE_URL4 = 'http://localhost:5000/api/cart'
+export const BASE_URL5 = 'http://localhost:5000/api'
+export const GOOGLE_CLIENT_ID='1039851611922-135o5m2vjg906touq0e9d3ko72916mg3.apps.googleusercontent.com'
+export const BASE_URL7 = ''
