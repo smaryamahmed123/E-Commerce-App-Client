@@ -76,7 +76,7 @@ const AddToCart = () => {
                     boxShadow: 3,
                     backgroundColor: '#fff',
                   }}>
-                  <Link style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', width: '100%' }} to={`/DetailedPg/${cart.product.id}`}>
+                  <Link style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', width: '100%' }} to={`/product/${cart.product.id}`}>
                     <CardMedia
                       component="img"
                       height="100"
